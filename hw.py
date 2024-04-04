@@ -1,2 +1,2 @@
 print("Hello World")
-print("Hello World from PC")
+print("Hello World from PC2")
